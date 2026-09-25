@@ -6,18 +6,30 @@
       title: "Iterative Specification Refinement towards Side Effect Free Configuration Repair",
       authors: "Ryusei Shiiba, Satoru Kobayashi, Osamu Akashi, Kensuke Fukuda",
       venue: "ACM CoNEXT 2026",
-      link: "#"
+      link: "#https://dl.acm.org/doi/10.1145/3808665"
     },
     {
       title: "Towards Separating Routing State Exploration from Protocol Semantics in Control Plane Verification",
       authors: "Ryusei Shiiba, Satoru Kobayashi, Osamu Akashi, Kensuke Fukuda",
       venue: "IEEE INFOCOM 2026 (Poster)",
+      link: "#https://ieeexplore.ieee.org/document/11571304"
+    },
+    {
+      title: "Symbolic Extraction of Packet Forwarding Behaviors to Identify Causes and Impacts of Network Failures",
+      authors: "Ryusei Shiiba, Ryo Nakamura, Yohei Kuga, Satoru Kobayashi, Osamu Akashi, Hiroki Shirokura, Kensuke Fukuda",
+      venue: "IPSJ Journal 2026 (JIP Specially Selected Paper award)",
       link: "#"
     },
     {
       title: "Topology-Driven Configuration of Emulation Networks With Deterministic Templating",
       authors: "Satoru Kobayashi, Ryusei Shiiba, Shinsuke Miwa, Toshiyuki Miyachi, Kensuke Fukuda",
       venue: "IEEE TNSM 2025",
+      link: "#"
+    },
+    {
+      title: "Overcoming eBPF Constraints: Towards Practical ML/NN-based Anomaly Detection",
+      authors: "Atsuya Osaki, Ryusei Shiiba, Kensuke Fukuda, Jin Nakazawa",
+      venue: "IPSJ Journal 2026",
       link: "#"
     },
     {
