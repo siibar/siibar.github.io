@@ -6,13 +6,13 @@
       title: "Iterative Specification Refinement towards Side Effect Free Configuration Repair",
       authors: "Ryusei Shiiba, Satoru Kobayashi, Osamu Akashi, Kensuke Fukuda",
       venue: "ACM CoNEXT 2026",
-      link: "#https://dl.acm.org/doi/10.1145/3808665"
+      link: "https://dl.acm.org/doi/10.1145/3808665"
     },
     {
       title: "Towards Separating Routing State Exploration from Protocol Semantics in Control Plane Verification",
       authors: "Ryusei Shiiba, Satoru Kobayashi, Osamu Akashi, Kensuke Fukuda",
       venue: "IEEE INFOCOM 2026 (Poster)",
-      link: "#https://ieeexplore.ieee.org/document/11571304"
+      link: "https://ieeexplore.ieee.org/document/11571304"
     },
     {
       title: "Symbolic Extraction of Packet Forwarding Behaviors to Identify Causes and Impacts of Network Failures",
